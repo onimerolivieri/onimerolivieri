@@ -1,4 +1,3 @@
-
 **# Onimer Olivieri**  
 *Desarrollador Fullstack | Estudiante de Ingeniería de Sistemas*
 
@@ -13,26 +12,26 @@
 ### 🛠️ Tecnologías y Habilidades
 
 - **Frontend:**
-  - HTML5, CSS3
-  - **JavaScript** *(en progreso)*
+  - 🎨 HTML5, CSS3
+  - 🚀 **JavaScript** *(en progreso)*
 
 - **Backend:**
-  - Django, PHP, Laravel
+  - 🧑‍💻 Django, PHP, Laravel
 
 - **Bases de Datos:**
-  - PostgreSQL, MySQL
+  - 🗄️ PostgreSQL, MySQL
 
 - **Control de Versiones:**
-  - Git, GitHub
+  - 🧰 Git, GitHub
 
 ---
 
 ### 🌱 En Proceso de Aprendizaje
 
-- **JavaScript:** Explorando nuevas posibilidades en la programación frontend.
+- 📚 **JavaScript:** Explorando nuevas posibilidades en la programación frontend.
 
 ---
 
 ### 📫 Contáctame
 
-- **Correo Electrónico:** [onimerolivieri@gmail.com](mailto:onimerolivieri@gmail.com)
+- 📧 **Correo Electrónico:** [onimerolivieri@gmail.com](mailto:onimerolivieri@gmail.com)
