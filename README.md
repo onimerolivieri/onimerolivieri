@@ -1,16 +1,34 @@
-## Hi there 👋
+Aquí tienes un perfil actualizado y un poco más estilizado para GitHub:
 
-<!--
-**onimerolivieri/onimerolivieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**# Onimer Olivieri**  
+*Desarrollador Fullstack | Estudiante de Ingeniería de Sistemas*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👋 Sobre Mí
+
+¡Hola! Soy Onimer Olivieri, un desarrollador fullstack apasionado por el aprendizaje continuo y la creación de aplicaciones web robustas y eficientes. Actualmente, estoy cursando Ingeniería de Sistemas y perfeccionando mis habilidades en el desarrollo fullstack.
+
+### 🛠️ Tecnologías y Habilidades
+
+- **Frontend:
+  - HTML5, CSS3
+  - JavaScript (en progreso)
+
+- Backend:
+  - Django, PHP, Laravel
+
+- Bases de Datos:**
+  - PostgreSQL, MySQL
+
+- Control de Versiones:
+  - Git, GitHub
+
+🌱 En Proceso de Aprendizaje
+JavaScript: Explorando nuevas posibilidades en la programación frontend.
+
+📫 Contáctame
+Correo Electrónico:** [onimerolivieri@gmail.com](mailto:onimerolivieri@gmail.com)
+
